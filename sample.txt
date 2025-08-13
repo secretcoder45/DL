@@ -1,0 +1,9 @@
+"location": "Delhi NCR",
+    "capacity": 200,
+    "date": "2025-02-20"
+
+cd backend
+uvicorn main:app --reload
+
+cd frontend
+python3 -m http.server 3000

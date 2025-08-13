@@ -1,25 +1,31 @@
 <!DOCTYPE html>
 <html>
-<head><title>Dynamic Pricing</title></head>
+<head>
+    <title>Dynamic Pricing</title>
+</head>
 <body>
-  <h2>Get Dynamic Price</h2>
-  <form action="http://127.0.0.1:8000/submit" method="post">
-    <label>Location:</label>
-    <select name="location">
-      <option>Delhi NCR</option>
-      <option>Jim Corbett</option>
-      <option>Jaipur</option>
-      <option>Udaipur</option>
-      <option>Manali</option>
-    </select><br><br>
+    <h2>Get Dynamic Price</h2>
+    <form action="http://127.0.0.1:8000/submit" method="post">
+        
+        <label>Location:</label>
+        <select name="location" required>
+            <option value="Delhi NCR">Delhi NCR</option>
+            <option value="Jim Corbett">Jim Corbett</option>
+            <option value="Jaipur">Jaipur</option>
+            <option value="Udaipur">Udaipur</option>
+            <option value="Manali">Manali</option>
+        </select>
+        <br><br>
 
-    <label>Capacity:</label>
-    <input type="number" name="capacity" required><br><br>
+        <label>Capacity:</label>
+        <input type="number" name="capacity" required min="1">
+        <br><br>
 
-    <label>Event Date:</label>
-    <input type="date" name="date" required><br><br>
+        <label>Event Date (YYYY-MM-DD):</label>
+        <input type="text" name="date" placeholder="YYYY-MM-DD" required pattern="\d{4}-\d{2}-\d{2}">
+        <br><br>
 
-    <input type="submit" value="Get Price">
-  </form>
+        <input type="submit" value="Get Price">
+    </form>
 </body>
 </html>
