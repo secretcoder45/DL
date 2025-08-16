@@ -1,9 +1,12 @@
-from fastapi import FastAPI, Form
+from fastapi import FastAPI, Form, Request
+from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
 import pandas as pd
 import joblib
 import os
 
 app = FastAPI()
+templates = Jinja2Templates(directory="../frontend")
 
 # ---------- Load model & encoder at startup ----------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -22,8 +25,13 @@ original_df = pd.read_csv(data_path)
 
 
 # ---------- API Endpoints ----------
-@app.post("/submit")
+@app.get("/", response_class=HTMLResponse)
+async def get_form(request: Request):
+    return templates.TemplateResponse("website.html", {"request": request})
+
+@app.post("/submit", response_class=HTMLResponse)
 async def predict_price(
+    request: Request,
     location: str = Form(...),
     capacity: int = Form(...),
     date: str = Form(...)
@@ -38,11 +46,18 @@ async def predict_price(
     # Filter relevant venues
     venue_subset = original_df[
         (original_df['location'].str.lower() == location.lower()) &
-        (original_df['capacity'].between(capacity * 0.9, capacity * 1.2))
+        (original_df['capacity'].between(capacity * 1, capacity * 1.5))
     ].copy()
 
     if venue_subset.empty:
-        return {"message": "No venues found for selected filters."}
+        return templates.TemplateResponse(
+            "results.html",
+            {
+                "request": request,
+                "message": "No venues found for selected filters.",
+                "results": []
+            }
+        )
 
     # Feature engineering
     venue_subset['event_date'] = pd.to_datetime(date)
@@ -58,26 +73,46 @@ async def predict_price(
         if col in venue_subset.columns:
             venue_subset[col] = venue_subset[col].astype('category')
     
-    # print(venue_subset.dtypes)
-
     # Features expected by model
     feature_cols = [
         'venue_id','event_date', 'lead_time_days', 'season', 'is_weekend', 'special_event', 'capacity','latitude', 'longitude',
         'geo_cluster', 'avg_price_last_14_days', 'bookings_last_14_days',
         'venue_avg_price_overall', 'lead_time_bucket', 'location'
     ]
-    # Predict
-    preds = model.predict(venue_subset[feature_cols])
+    venue_subset = venue_subset.groupby(['venue_id', 'location'], as_index=False).agg({
+        'event_date': 'first',             
+        'lead_time_days': 'first',         
+        'season': 'first',                 
+        'is_weekend': 'first',             
+        'special_event': 'max',            
+        'capacity': 'mean',                
+        'latitude': 'mean',                
+        'longitude': 'mean',               
+        'geo_cluster': 'first',            
+        'avg_price_last_14_days': 'mean',  
+        'bookings_last_14_days': 'mean',  
+        'venue_avg_price_overall': 'mean', 
+        'lead_time_bucket': 'first'        
+    })
 
+    # Predict
+    preds = model.predict(venue_subset[feature_cols]) 
 
     # Keep venue_id and location for output
-    output_cols = venue_subset[['venue_id', 'location']].copy()
+    output_cols = venue_subset[['venue_id', 'location', 'capacity']].copy()
 
     # Add predictions to output
-    output_cols['predicted_price'] = preds
+    output_cols['predicted_price'] = preds.round(0) 
+    results = output_cols.to_dict(orient='records')  
 
-    return {
-        "results": output_cols.to_dict(orient='records')
-    }
-
-
+    # Return in HTML file
+    return templates.TemplateResponse(
+        "prediction.html",
+        {
+            "request": request,
+            "results": results,
+            "location": location,
+            "capacity": capacity,
+            "date": date
+        }
+    )
