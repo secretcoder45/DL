@@ -1,0 +1,5254 @@
+{
+  "results": [
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1501.3218952587856
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1501.3826446897035
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1502.2320219037279
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.575328786652
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5356648222685
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6008149893619
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6011231824339
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6011231824339
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6011231824339
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6011231824339
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6011231824339
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6081927560597
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6081927560597
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8724746137148
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.9082425538134
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.891133780843
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6088318969526
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6088318969526
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.9082425538134
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6088318969526
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.9082425538134
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.5769445952117
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1500.6439606961583
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.9085507468852
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.891133780843
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8704063747016
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 900.8700981816297
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7593163973547
+    },
+    {
+      "venue_id": 2,
+      "location": 0,
+      "predicted_price": 1300.7596245904267
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1699.0066786167774
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1699.3096323062298
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.1363360664936
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.6531225104347
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.613458546051
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.613458546051
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.613458546051
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.8402313440556
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.4403941509001
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.4403941509001
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.4403941509001
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.736878039415
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447155531454
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.620528119677
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.8473009176814
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.2833390008068
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.3152263025477
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.3503551017534
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.3503551017534
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.8476091107534
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.5101052414104
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1700.447463724526
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6663495081514
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6485664912764
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6275308920633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5346305064224
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5349386994944
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6272226989913
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5346305064224
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5346305064224
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5346305064224
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6656752642466
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5665178081633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5665178081633
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6482582982044
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.5668260012353
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1100.6653670711746
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601954800441
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 9,
+      "location": 0,
+      "predicted_price": 1500.601646607369
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2168.5014543778025
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2499.7418119425606
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.1046081200893
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.4466218006426
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4048674095366
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4883955557143
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.365707455721
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.2821793095432
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.241862730383
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.241862730383
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.241862730383
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.2438484436743
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4903812690054
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.3676931690122
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.3676931690122
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.2438484436743
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.3676931690122
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.2438484436743
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4903812690054
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4903812690054
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.3676931690122
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4068531228277
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.490073075933
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4903812690054
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.4092517426222
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.393050395076
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.3393283474334
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.516817303541
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.8023149026467
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.7436970019962
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2509.712359365096
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2498.419080608076
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.353818733543
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.393050395076
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.354126926615
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.4903812690054
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2501.531631649543
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.4089435495503
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.2841650228345
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.393050395076
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.02169138164
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.393358588148
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.8375033719942
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.163521528662
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.8023149026467
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.8375033719942
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.7440051950682
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.7436970019962
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.8023149026467
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.9076207856724
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.16321333559
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.163521528662
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.16321333559
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.16321333559
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.163521528662
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.814413247955
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.6806231196401
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.6806231196401
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.7440051950682
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.8023149026467
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.7436970019962
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6417245920209
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.9076207856724
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.163521528662
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.8375033719942
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1902.4270507855333
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1903.6420327850929
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.8023149026467
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2302.3068386152145
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.343395163089
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.021999574712
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.282771912136
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.282771912136
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 1901.283080105208
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0368091876985
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2301.0365009946263
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9262225116854
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 13,
+      "location": 0,
+      "predicted_price": 2300.9265307047576
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2168.5387708187804
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1899.5217531270137
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.254479021362
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.161180710688
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.1618333254642
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.121516746304
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.121516746304
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.1618333254642
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.121516746304
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.2845214254576
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.121516746304
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.1638190387555
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.1235024595953
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.1235024595953
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2473471849332
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.2865071387487
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.2865071387487
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.2865071387487
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.411285665464
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2885975654713
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2476553780052
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.1638190387555
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.162425928057
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.273012604069
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.571565679708
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.693257462715
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.05446408873
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2301.9599191577545
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.272704410997
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2189823633544
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2496.3253519530376
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.094534637862
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.233780942536
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.1235024595953
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.3700352849264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.411285665464
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2501.411285665464
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2885975654713
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.1641272318275
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.273012604069
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.27620402128
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.650627050997
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.3971664148653
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2303.1703818922315
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2301.9599191577545
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2192905564264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2189823633544
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.3971664148653
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.1059756618852
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.1059756618852
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.6346395620642
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5329753451608
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5329753451608
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.6929492696427
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.7982551526684
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2301.7056640010956
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.3971664148653
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.2192905564264
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.3971664148653
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.3971664148653
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.3179933456013
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.3179933456013
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5329753451608
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5329753451608
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.693257462715
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.7284459320622
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.6349477551362
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.7287541251342
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.6349477551362
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.7985633457406
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.3179933456013
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.7982551526684
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.05446408873
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.3183015386733
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.6346395620642
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.6346395620642
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.5326671520888
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.6929492696427
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1903.7287541251342
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2303.1703818922315
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1902.1056674688132
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2302.1977811752827
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2301.0338173399696
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.650318857925
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.901653590633
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9161550105473
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.162734121129
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.162425928057
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.162425928057
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.272704410997
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.901653590633
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.9164632036195
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 1901.162425928057
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8058765276064
+    },
+    {
+      "venue_id": 42,
+      "location": 0,
+      "predicted_price": 2300.8061847206786
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1699.2126602751425
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1099.7634804838228
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.1004216593963
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4116854553915
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6880158974059
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4691301137805
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6950854710317
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6950854710317
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6950854710317
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.3790910646337
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.343962265428
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6773024541567
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6769942610847
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.343962265428
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.343962265428
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6769942610847
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.312074963687
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.312074963687
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.312074963687
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6769942610847
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.343962265428
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.3790910646337
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.6492640825572
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.8760368805617
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4758914943343
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1700.4761996874063
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6950854710317
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694411227127
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5633664693028
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5633664693028
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5633664693028
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6562668549436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5952537710436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6303825702494
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6303825702494
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694411227127
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.6559586618716
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5633664693028
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5633664693028
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5636746623748
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5952537710436
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694411227127
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6303825702494
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1100.694103034055
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.5955619641156
+    },
+    {
+      "venue_id": 44,
+      "location": 0,
+      "predicted_price": 1500.6306907633214
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1699.1677459144692
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1699.4706996039215
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.2974033641854
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.680653054368
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.6409890899843
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.8677618879888
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.4679246948333
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.4679246948333
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.4679246948333
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.8677618879888
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.3708160720607
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.3778856456865
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.474994268459
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.474994268459
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.474994268459
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6941882451565
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.427631822319
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.474994268459
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.4746860753871
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.474994268459
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.8748314616146
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6938800520845
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6928976151078
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6757888421375
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.31086954474
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.31086954474
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.31086954474
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6757888421375
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.31086954474
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.3778856456865
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.3778856456865
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.8748314616146
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1700.3778856456865
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6938800520845
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6932058081798
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6928976151078
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6760970352095
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5621610503556
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5621610503556
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6550614359965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6547532429245
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5621610503556
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5624692434276
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6932058081798
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6932058081798
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5940483520965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6928976151078
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6932058081798
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6294853443742
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.6291771513022
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5943565451685
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5940483520965
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1100.6928976151078
+    },
+    {
+      "venue_id": 47,
+      "location": 0,
+      "predicted_price": 1500.5943565451685
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1699.0615181739263
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1099.6123383826066
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.5100046389834
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2788916873212
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.3062438238842
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6212557933054
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.3062438238842
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6212557933054
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6044552134072
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2711150246785
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6215639863774
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2781845983043
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.611216593961
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2781845983043
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.3630595741424
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.3630595741424
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.62961599698
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6286335600032
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2462972965634
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2462972965634
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2462972965634
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.611216593961
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.611216593961
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.611216593961
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2462972965634
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.2462972965634
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.62961599698
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6286335600032
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1700.31331339751
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.629307803908
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.629307803908
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.611216593961
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497588802179
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497588802179
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.590180994748
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.59048918782
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.497896995251
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.52947610392
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5646049031257
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1100.6283253669312
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.529784296992
+    },
+    {
+      "venue_id": 57,
+      "location": 0,
+      "predicted_price": 1500.5649130961976
+    }
+  ]
+}
