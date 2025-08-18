@@ -1,12 +1,23 @@
-from fastapi import FastAPI, Form, Request
-from fastapi.responses import HTMLResponse
-from fastapi.templating import Jinja2Templates
+from fastapi import FastAPI, Form
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import joblib
 import os
+import uvicorn
+
+if __name__ == "__main__":
+    uvicorn.run("server:app", host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
 
 app = FastAPI()
-templates = Jinja2Templates(directory="../frontend")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # ---------- Load model & encoder at startup ----------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -25,13 +36,8 @@ original_df = pd.read_csv(data_path)
 
 
 # ---------- API Endpoints ----------
-@app.get("/", response_class=HTMLResponse)
-async def get_form(request: Request):
-    return templates.TemplateResponse("website.html", {"request": request})
-
-@app.post("/submit", response_class=HTMLResponse)
+@app.post("/api/predict")
 async def predict_price(
-    request: Request,
     location: str = Form(...),
     capacity: int = Form(...),
     date: str = Form(...)
@@ -50,19 +56,12 @@ async def predict_price(
     ].copy()
 
     if venue_subset.empty:
-        return templates.TemplateResponse(
-            "results.html",
-            {
-                "request": request,
-                "message": "No venues found for selected filters.",
-                "results": []
-            }
-        )
+        return JSONResponse(content={"message": "No venues found for selected filters."}, status_code=404)
 
     # Feature engineering
     venue_subset['event_date'] = pd.to_datetime(date)
     venue_subset['lead_time_days'] = (event_date - pd.to_datetime("2024-12-01")).days
-    venue_subset['is_weekend'] = event_date.weekday() in [5, 6]
+    venue_subset['is_weekend'] = int(event_date.weekday() in [5, 6])
 
     # Encode location
     venue_subset['location'] = le_location.transform(venue_subset['location'])
@@ -103,16 +102,8 @@ async def predict_price(
 
     # Add predictions to output
     output_cols['predicted_price'] = preds.round(0) 
-    results = output_cols.to_dict(orient='records')  
+    results = output_cols.to_dict(orient='records')
 
-    # Return in HTML file
-    return templates.TemplateResponse(
-        "prediction.html",
-        {
-            "request": request,
-            "results": results,
-            "location": location,
-            "capacity": capacity,
-            "date": date
-        }
-    )
+    print("Returning results:", results) 
+
+    return JSONResponse(content={"results": results})
