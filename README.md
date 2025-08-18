@@ -107,9 +107,13 @@ uvicorn backend.main:app --reload
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Contributors
+## 📬 Contact
 
--   **Palash Garg** -- Developer / ML Engineer
+Author: Palash Garg  
+Institute: IIT Guwahati  
+📧 palashgarg45@gmail.com  
+📎 LinkedIn: https://www.linkedin.com/in/palash-garg-003014345/
+
 
 ------------------------------------------------------------------------
 
