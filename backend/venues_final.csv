@@ -1,0 +1,81 @@
+venue_id,name,location,type,capacity,lat,long
+2,Venue 2,Delhi NCR,Banquet Hall,150,28.4925,76.9738
+9,Venue 9,Delhi NCR,Banquet Hall,200,28.4841,77.4707
+13,Venue 13,Delhi NCR,Hotel + Ballroom,240,28.6315,77.3789
+15,Venue 15,Delhi NCR,Hotel + Ballroom,550,28.7734,77.0612
+19,Venue 19,Delhi NCR,Hotel + Ballroom,600,28.6698,77.4657
+37,Venue 37,Delhi NCR,Hotel + Ballroom,130,28.6801,77.2293
+40,Venue 40,Delhi NCR,Hotel + Ballroom,800,28.5811,77.0271
+42,Venue 42,Delhi NCR,Hotel + Ballroom,240,28.5497,77.3002
+43,Venue 43,Delhi NCR,Hotel + Ballroom,800,28.783,76.9289
+44,Venue 44,Delhi NCR,Banquet Hall,300,28.6584,77.471
+47,Venue 47,Delhi NCR,Banquet Hall,300,28.8936,77.3227
+52,Venue 52,Delhi NCR,Banquet Hall,400,28.7909,77.0296
+53,Venue 53,Delhi NCR,Hotel + Ballroom,550,28.5203,76.9857
+56,Venue 56,Delhi NCR,Hotel + Ballroom,800,28.5961,77.4386
+57,Venue 57,Delhi NCR,Banquet Hall,300,28.5387,77.1598
+58,Venue 58,Delhi NCR,Hotel + Ballroom,450,28.4064,77.0735
+69,Venue 69,Delhi NCR,Banquet Hall,550,28.779,76.9218
+72,Venue 72,Delhi NCR,Hotel + Ballroom,500,28.8976,77.3913
+77,Venue 77,Delhi NCR,Hotel + Ballroom,700,28.7709,77.321
+4,Venue 4,Jaipur,Hotel + Ballroom,240,26.8798,75.7235
+6,Venue 6,Jaipur,Hotel + Ballroom,500,26.8376,75.845
+7,Venue 7,Jaipur,Banquet Hall,150,26.8325,75.7226
+11,Venue 11,Jaipur,Hotel + Ballroom,350,26.9589,75.7998
+20,Venue 20,Jaipur,Banquet Hall,130,26.986,75.8357
+21,Venue 21,Jaipur,Banquet Hall,800,26.968,75.8929
+22,Venue 22,Jaipur,Banquet Hall,130,26.957,75.7506
+24,Venue 24,Jaipur,Banquet Hall,700,26.9435,75.8127
+28,Venue 28,Jaipur,Banquet Hall,600,26.8961,75.8181
+30,Venue 30,Jaipur,Banquet Hall,300,26.9329,75.894
+35,Venue 35,Jaipur,Banquet Hall,300,26.9543,75.708
+38,Venue 38,Jaipur,Hotel + Ballroom,550,26.8319,75.7056
+46,Venue 46,Jaipur,Banquet Hall,300,26.9101,75.8462
+48,Venue 48,Jaipur,Hotel + Ballroom,180,26.9706,75.7056
+49,Venue 49,Jaipur,Hotel + Ballroom,700,26.9858,75.7667
+51,Venue 51,Jaipur,Banquet Hall,700,26.9267,75.7615
+55,Venue 55,Jaipur,Banquet Hall,240,26.9645,75.8798
+67,Venue 67,Jaipur,Banquet Hall,400,26.8545,75.8356
+73,Venue 73,Jaipur,Banquet Hall,400,26.9209,75.8629
+80,Venue 80,Jaipur,Banquet Hall,600,26.8589,75.75
+16,Venue 16,Jim Corbett,Banquet Hall,200,29.5388,78.8467
+17,Venue 17,Jim Corbett,Banquet Hall,600,29.5379,78.8536
+23,Venue 23,Jim Corbett,Hotel + Ballroom,180,29.4868,78.7838
+27,Venue 27,Jim Corbett,Banquet Hall,200,29.4749,78.805
+29,Venue 29,Jim Corbett,Banquet Hall,700,29.5256,78.8471
+31,Venue 31,Jim Corbett,Hotel + Ballroom,600,29.4368,78.8089
+32,Venue 32,Jim Corbett,Banquet Hall,180,29.4613,78.7777
+34,Venue 34,Jim Corbett,Banquet Hall,450,29.4548,78.7816
+36,Venue 36,Jim Corbett,Banquet Hall,350,29.5374,78.8844
+45,Venue 45,Jim Corbett,Banquet Hall,130,29.4381,78.8201
+54,Venue 54,Jim Corbett,Banquet Hall,550,29.4373,78.7981
+59,Venue 59,Jim Corbett,Banquet Hall,130,29.4728,78.8023
+62,Venue 62,Jim Corbett,Banquet Hall,240,29.5491,78.8655
+63,Venue 63,Jim Corbett,Banquet Hall,180,29.5246,78.8557
+68,Venue 68,Jim Corbett,Banquet Hall,240,29.4456,78.8959
+74,Venue 74,Jim Corbett,Banquet Hall,800,29.4917,78.7931
+75,Venue 75,Jim Corbett,Banquet Hall,240,29.5397,78.7522
+1,Venue 1,Manali,Hotel + Ballroom,240,32.253,77.1992
+8,Venue 8,Manali,Banquet Hall,500,32.2738,77.1903
+10,Venue 10,Manali,Banquet Hall,300,32.259,77.1825
+12,Venue 12,Manali,Banquet Hall,400,32.2332,77.153
+14,Venue 14,Manali,Hotel + Ballroom,350,32.2442,77.1981
+18,Venue 18,Manali,Hotel + Ballroom,400,32.2316,77.1536
+25,Venue 25,Manali,Banquet Hall,300,32.2594,77.1628
+26,Venue 26,Manali,Banquet Hall,240,32.2718,77.1743
+33,Venue 33,Manali,Hotel + Ballroom,180,32.2743,77.184
+39,Venue 39,Manali,Banquet Hall,700,32.2651,77.1838
+60,Venue 60,Manali,Banquet Hall,240,32.2476,77.1603
+64,Venue 64,Manali,Hotel + Ballroom,450,32.2498,77.1606
+65,Venue 65,Manali,Banquet Hall,240,32.2582,77.1837
+66,Venue 66,Manali,Hotel + Ballroom,600,32.2438,77.1558
+71,Venue 71,Manali,Hotel + Ballroom,130,32.2763,77.1569
+79,Venue 79,Manali,Hotel + Ballroom,130,32.2784,77.1794
+3,Venue 3,Udaipur,Hotel + Ballroom,150,24.642,73.6607
+5,Venue 5,Udaipur,Hotel + Ballroom,350,24.551,73.7189
+41,Venue 41,Udaipur,Banquet Hall,500,24.5887,73.7454
+50,Venue 50,Udaipur,Hotel + Ballroom,400,24.5958,73.6821
+61,Venue 61,Udaipur,Hotel + Ballroom,150,24.5765,73.653
+70,Venue 70,Udaipur,Banquet Hall,350,24.6356,73.6812
+76,Venue 76,Udaipur,Hotel + Ballroom,300,24.5903,73.7216
+78,Venue 78,Udaipur,Hotel + Ballroom,200,24.6368,73.7018

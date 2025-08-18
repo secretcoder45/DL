@@ -1,36 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Venue Booking</title>
+    <title>Pricing of Venues</title>
 </head>
 <body>
+    <h2>Get Venue Price</h2>
+    <form action="http://127.0.0.1:8000/submit" method="post">
+        
+        <label>Location:</label>
+        <select name="location" required>
+            <option value="Delhi NCR">Delhi NCR</option>
+            <option value="Jim Corbett">Jim Corbett</option>
+            <option value="Jaipur">Jaipur</option>
+            <option value="Udaipur">Udaipur</option>
+            <option value="Manali">Manali</option>
+        </select>
+        <br><br>
 
-  <h2>Venue Booking</h2>
+        <label>Capacity:</label>
+        <input type="number" name="capacity" required min="1">
+        <br><br>
 
-  <form action="http://localhost:8000/submit" method="post">
-    
-    <label for="location">Select Location:</label>
-    <select id="location" name="location" required>
-      <option value="">--Choose a location--</option>
-      <option value="delhi">Delhi-NCR</option>
-      <option value="jaipur">Jaipur</option>
-      <option value="udaipur">Udaipur</option>
-      <option value="manali">Manali</option>
-      <option value="jim_corbett">Jim Corbett</option>
-    </select>
-    <br><br>
+        <label>Event Date:</label>
+        <input type="text" name="date" placeholder="YYYY-MM-DD" required pattern="\d{4}-\d{2}-\d{2}">
+        <br><br>
 
-    <label for="capacity">Guest Capacity:</label>
-    <input type="number" id="capacity" name="capacity" min="10" required>
-    <br><br>
-
-    <label for="date">Booking Date:</label>
-    <input type="text" id="date" name="date" placeholder="2025-07-21" pattern="\d{4}-\d{2}-\d{2}" required>
-    <br><br>
-
-    <input type="submit" value="Submit">
-
-  </form>
-
+        <input type="submit" value="Get Price">
+    </form>
 </body>
 </html>

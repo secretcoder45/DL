@@ -1,0 +1,20 @@
+"location": "Delhi NCR",
+    "capacity": 200,
+    "date": "2025-02-20"
+
+cd backend
+uvicorn main:app --reload
+
+cd frontend
+python3 -m http.server 3000
+
+
+after line 61
+        # Predict
+    venue_subset['predicted_price'] = model.predict(venue_subset)
+
+    print("before results print")
+
+    return {
+        "results": venue_subset[['venue_id', 'location', 'predicted_price']].to_dict(orient='records')
+    }
