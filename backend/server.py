@@ -4,12 +4,16 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import joblib
 import os
+import uvicorn
+
+if __name__ == "__main__":
+    uvicorn.run("server:app", host="0.0.0.0", port=int(os.environ.get("PORT", 8000)))
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # allow all for dev
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -98,6 +102,8 @@ async def predict_price(
 
     # Add predictions to output
     output_cols['predicted_price'] = preds.round(0) 
-    results = output_cols.to_dict(orient='records')  
+    results = output_cols.to_dict(orient='records')
+
+    print("Returning results:", results) 
 
     return JSONResponse(content={"results": results})
